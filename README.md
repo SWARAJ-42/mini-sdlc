@@ -1,4 +1,4 @@
-# MiniHeal
+# mini-sdlc
 
 Run commands from the project root.
 
